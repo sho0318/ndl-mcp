@@ -37,7 +37,7 @@ MCPの設定ファイルに以下の記述を追加してください。
       "command": "/path/to/uv",
       "args": [
           "--directory",
-          "/path/to/mcp-ndl",
+          "/path/to/ndl-mcp",
           "run",
           "ndl.py"
       ]
